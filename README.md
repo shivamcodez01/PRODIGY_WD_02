@@ -25,7 +25,7 @@ HTML5, CSS3, Vanilla JavaScript
 Publish using GitHub Pages:
 1. Push the repo to GitHub.
 2. Settings → Pages → Select `main` branch and `/ (root)` (or `master` if applicable) → Save.
-3. Visit `` after deployment.
+3. Visit `https://shivamcodez01.github.io/PRODIGY_WD_02/` after deployment.
 
 ## Author
 Shivam Agrahari — Web Development Intern @ Prodigy InfoTech  
